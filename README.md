@@ -4,10 +4,10 @@ This project aims to implement an application that allows users to retrieve and 
 
 ## Features
 
-- **Top 10 Most Downloaded Books:**:  Displays the top 10 most downloaded books.
-- **Search for a Book by Title:**: Allows users to search for a book by title.
-- **Search for Authors by Year:**: Enables users to search for authors based on year.
-- **Display Statistics:**: Shows statistics related to the book data..
+- **Top 10 Most Downloaded Books:**  Displays the top 10 most downloaded books.
+- **Search for a Book by Title:** Allows users to search for a book by title.
+- **Search for Authors by Year:** Enables users to search for authors based on year.
+- **Display Statistics:** Shows statistics related to the book data..
 
  Technologies Used
 
