@@ -12,7 +12,7 @@ This project aims to implement an application that allows users to retrieve and 
  Technologies Used
 
 - Java
-
+- Jackson Databind
 - Collection Framework
 - Java Stream API
 
